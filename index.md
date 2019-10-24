@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Title goes here
 
-I'm glad you are here. I plan to talk about ...
+the rest goes here
